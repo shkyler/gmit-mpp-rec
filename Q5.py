@@ -1,6 +1,6 @@
 # 2019-12-06 - Patrick Moore - GMIT
 
-# - Replace a given character with ’*’
+# Q5 - Replace a given character with ’*’
 # Given  a  string,  and  a  character  to  replace, return a string where each 
 # occurance of the character is replaced with ’*’
 

@@ -14,5 +14,5 @@ def prod(array):
 
 # Define a list of numbers to test
 a = [1,2,3,4,5,6,7,8,9,10]
-# Print the sum of the array
+# Print the product of the array
 print(prod(a))  

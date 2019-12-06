@@ -16,5 +16,5 @@ def rem_evens(array):
 
  # Define a list of numbers to test
 a = [1,2,3,4,5,6,7,8,9,10]
-# Print the sum of the array
+# the odds from the list
 print(rem_evens(a)) 

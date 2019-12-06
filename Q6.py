@@ -4,7 +4,6 @@
 # Given an array, and an element to search for return the index of the element 
 # in the array or -1 if the element is not present in the array.
 
-
 def index(array, value_to_check):
     # if the entered value is not in the list return -1
     if value_to_check not in array:
@@ -16,6 +15,7 @@ def index(array, value_to_check):
     else:
       return 1 + index(array[1:], value_to_check)
 
-
+# define a list to test
 a= [1,1,2,3,4,5]
+# test the function
 print(index(a,3))    
