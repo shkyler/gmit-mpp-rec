@@ -1,4 +1,7 @@
-# Q1
+# 2019-12-06 - Patrick Moore - GMIT
+
+# Q1 - Sum of an array
+# Given an array of numbers return it’s sum (all the numbers added together)
 
 def sum(array):
     # define the lenght of the array of 1 to be the base case

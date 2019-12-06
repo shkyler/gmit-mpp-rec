@@ -1,6 +1,7 @@
 # 2019-12-06 - Patrick Moore - GMIT
 
-# Q2 
+# Q2 - Product of an array
+# Given an array of numbers return it’s product (all the numbers multiplied together).
 
 def prod(array):
     # define the lenght of the array of 1 to be the base case
