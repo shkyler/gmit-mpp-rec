@@ -4,7 +4,7 @@
 # Given an array of numbers return an array with all the even numbers removed.
 
 def rem_evens(array):  
-    # if the list is empty return an empty list  
+    # if the list is empty return an empty list - this will act as the base case
     if not array:
         return []
     # if the element at position is odd, return an array with this element in it and then check the remove the evens from the rest of the array 
